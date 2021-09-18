@@ -34,6 +34,8 @@ This is how you create a table in github markdown
 header2 | header2
 --------|--------
 the contents of the first cell | contents of the second cell
+_italicized contents_ | __bold contents of the cell__
+~~strikethrough content~~ | ___italicized bold content___
 
 
 Creation of tasklist
