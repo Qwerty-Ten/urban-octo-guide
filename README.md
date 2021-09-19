@@ -38,9 +38,9 @@ _italicized contents_ | __bold contents of the cell__
 ~~strikethrough content~~ | ___italicized bold content___
 
 Creation of Linked list
--first item in linked list
- -second item in the list
- -third item in the list
+- first item in linked list
+ - second item in the list
+ - third item in the list
 
 
 Creation of tasklist
