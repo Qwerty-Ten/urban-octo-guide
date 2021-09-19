@@ -37,6 +37,11 @@ the contents of the first cell | contents of the second cell
 _italicized contents_ | __bold contents of the cell__
 ~~strikethrough content~~ | ___italicized bold content___
 
+Creation of Linked list
+-first item in linked list
+ -second item in the list
+ -third item in the list
+
 
 Creation of tasklist
 
